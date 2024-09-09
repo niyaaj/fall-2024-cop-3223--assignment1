@@ -1,3 +1,11 @@
+// small-program-0.c
+// Author: Taniya Jones
+// Date: 9/08/24
+// Class: COP 3223, Professor Parra
+// Purpose: This program is used to print calculated formulas with many internal functions.
+// Input: None
+// Output: None
+
 int main(){
                 int age;
                 float height;
