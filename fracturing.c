@@ -1,3 +1,11 @@
+// fracturing.c
+// Author: Taniya Jones
+// Date: 9/08/24
+// Class: COP 3223, Professor Parra
+// Purpose: This program is used to print calculated formulas with many internal functions.
+// Input: None
+// Output: None
+
 #include<stdio.h>
 #include<math.h> // for sqrt
 

@@ -1,4 +1,4 @@
-// small-program-0.c
+// tasks.c
 // Author: Taniya Jones
 // Date: 9/08/24
 // Class: COP 3223, Professor Parra
